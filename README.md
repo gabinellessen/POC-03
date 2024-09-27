@@ -1,8 +1,6 @@
 ```markdown
 # POC-03: Media Queries no CSS
 
-Este projeto explora como as **media queries** funcionam no CSS, utilizando exemplos práticos que fazem sentido para diferentes dispositivos e orientações.
-
 ## 1. Media Query para Impressão
 
 As media queries para **impressão** permitem definir estilos específicos que serão aplicados apenas quando a página for impressa. Isso garante que o conteúdo seja apresentado de forma clara e legível no papel.
@@ -73,12 +71,3 @@ Outras propriedades que podem ser úteis ao trabalhar com **media queries**:
 - **`max-width: 992px`**: Aplica estilos para dispositivos com largura de até 992 pixels (ideal para tablets).
 - **`max-width: 600px`**: Aplica estilos para dispositivos com largura de até 600 pixels (ideal para smartphones).
 
----
-
-Este projeto demonstra como adaptar layouts e garantir uma boa experiência de usuário, independentemente do dispositivo ou da orientação da tela.
-```
-
-### O que foi feito:
-- O conteúdo foi estruturado com títulos e subtítulos adequados.
-- Os exemplos de código CSS foram destacados dentro de blocos de código.
-- As explicações foram separadas e organizadas para fácil entendimento.
