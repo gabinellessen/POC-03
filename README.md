@@ -1,5 +1,3 @@
-Aqui está o conteúdo formatado de forma mais organizada para um arquivo `README.md`:
-
 ```markdown
 # POC-03: Media Queries no CSS
 
