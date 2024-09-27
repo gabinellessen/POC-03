@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <style>
+            .content {
+            column-count: 3;
+            column-gap: 20px;
+            }
+            @media (max-width: 992px) {
+            .content {
+                column-count: 2;
+            }
+            }
+            @media (max-width: 600px) {
+            .content {
+                column-count: 1;
+            }
+            }
+        </style>
+    </head>
+    <body>
+        <div class="content">
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sit amet accumsan tortor. Nulla facilisi.</p>
+            <p>Phasellus vehicula justo eget diam posuere sollicitudin eu tincidunt nulla. Curabitur eleifend, ligula at consectetur vehicula.</p>
+            <p>Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci. Aenean dignissim pellentesque felis.</p>
+        </div>
+    </body>
+</html>
