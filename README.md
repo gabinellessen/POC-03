@@ -1,6 +1,7 @@
 ```markdown
 # POC-03: Media Queries no CSS
-
+### Resumo:
+Essa POC tem como explicar como usar usar forma plena a media queries. Iremos explicar as funcionalidades principais da característca do CSS que é tão importante para navegabilidade em mobile. 
 ## 1. Media Query para Impressão
 
 As media queries para **impressão** permitem definir estilos específicos que serão aplicados apenas quando a página for impressa. Isso garante que o conteúdo seja apresentado de forma clara e legível no papel.
